@@ -2,3 +2,4 @@
 Console.WriteLine("lo, Git");
 
 Console.WriteLine("rio");
+Console.WriteLine("fujiwara");
