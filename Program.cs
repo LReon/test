@@ -2,4 +2,4 @@
 Console.WriteLine("lo, Git");
 
 Console.WriteLine("rio");
-Console.WriteLine("pullrequest");
+Console.WriteLine("プルせずに作業した");
