@@ -2,4 +2,4 @@
 Console.WriteLine("lo, Git");
 
 Console.WriteLine("rio");
-Console.WriteLine("プルリクエスト");
+Console.WriteLine("pullリクエスト");
